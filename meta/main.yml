@@ -1,7 +1,7 @@
 galaxy_info:
   author: Rod Oliver
   description: Create configuration for Nexus based on template
-  company: your company (optional)
+  company: ACME Inc
 
   # If the issue tracker for your role is not on github, uncomment the
   # next line and provide a value
